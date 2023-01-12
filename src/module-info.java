@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kawsa
+ *
+ */
+module JavaFinal {
+}
